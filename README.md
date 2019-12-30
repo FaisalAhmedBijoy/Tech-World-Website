@@ -46,5 +46,5 @@ A technological information website created in PHP
 </ol>
 
 
-<h2> 5.Profile</h2>
+<h2> v.Profile</h2>
 
