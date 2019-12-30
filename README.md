@@ -1,43 +1,50 @@
 # Tech-World
 A technological information website created in PHP 
 
+<h1>Features of this project<h1>
+
+<ul>
+<li>Login</li>
+<li>Sign Up/ Registration </li>
+<li>Show User Post </li>
+</ul>
 
 
 
+<b>Admin</b>
+
+<h2>i. Category</h2>
+<ol>
+  <li>Create</li>
+  <li>Delete</li>
+  <li>Read</li>
+  <li>Update</li>
+</ol>
+
+<h2>ii. POST</h2>
+<ol>
+  <li>Create</li>
+  <li>Delete</li>
+  <li>Read</li>
+  <li>Update</li>
+</ol>
+
+<h2>iii. Comment </h2>
+<ol>
+  <li>Create</li>
+  <li>Delete</li>
+  <li>Read</li>
+  <li>Update</li>
+</ol>
+
+<h2>iv. User </h2>
+<ol>
+  <li>Create</li>
+  <li>Delete</li>
+  <li>Read</li>
+  <li>Update</li>
+</ol>
 
 
-Features of this project ->
-
-
-
-
-
-
-1.Login
-2.Sign Up/ Registration
-3.Show User Post
-
-
-
-
-
-
-
-Admin->
-
-
-
-1. Category ->Create ,Read ,Delete,Update 
-
-
-2.Post ->Create,Read ,Update,Delete 
-
-
-3.Comment ->Create,Read ,Update,Delete 
-
-
-4.User ->Create,Read ,Update,Delete 
-
-
-5.Profile
+<h2> 5.Profile</h2>
 
