@@ -36,10 +36,6 @@ A technological information website created in PHP
  
  ![alt text](https://github.com/FaisalAhmedBijoy/Tech-World-Website/blob/master/imageReadMeTechWorld/techworld1.PNG)
  
- <h3>Login Page</h3>
- 
- ![alt text](https://github.com/FaisalAhmedBijoy/Tech-World-Website/blob/master/imageReadMeTechWorld/techworld1.PNG)
- 
  <h3>Home Page</h3>
  
  ![alt text](https://github.com/FaisalAhmedBijoy/Tech-World-Website/blob/master/imageReadMeTechWorld/techworld2.PNG)
