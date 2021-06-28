@@ -1,6 +1,15 @@
 # Tech-World
 A technological information website created in PHP 
 
+<h1>Design Tools</h1>
+
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- PHP
+- MySQL
+
 <h2>Features of this project</h2>
 
 
